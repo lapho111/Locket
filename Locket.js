@@ -1,3 +1,9 @@
+/******************************
+📌 Tác Giả：Lạp Hộ  
+📌 Cập Nhật：2025-2-17  
+📌 Liên Lạc：Zalo: 0886632736  
+📌 Face Book: https://www.facebook.com/lapho111
+*******************************/
 const mapping = {
   '%E8%BD%A6%E7%A5%A8%E7%A5%A8': ['vip+watch_vip'],
   'Locket': ['Gold']
